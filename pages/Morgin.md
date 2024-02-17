@@ -1,0 +1,7 @@
+- #postava
+- Morgin je ještěreckým velitelem jedné z jednotek stráží v [ještěrecké jeskyni](Ještěrecká jeskyně).
+- Zvládá slušně mluvit obecnou řečí, avšak po každé větě z neznámého důvodu říká vždy
+- > Ha ha ha
+- Našel značné zalíbení v [Miguelovi](Miguel), díky společné zálibě v alkoholu. Morgin je zvyklý pít ještěreckou specialitu - rybí likér.
+- Vydal se se skupinou dobrodruhů jako doprovod do [Slaniska](Slanisko), pro získání další pomoci pro [ještěreckou jeskyni](Ještěrecká jeskyně).
+- Ve [Slanisku](Slanisko) strávil většinu času opíjením se s dobrodruhy v hospodě U Přetržené udice. Nakonec se mu však podařilo na schůzi rady [Slaniska](Slanisko) přesvědčit členy, aby vyslali [Anderse Solmora](Anders Solmor) jako velvyslance pro jednání s ještěrci.

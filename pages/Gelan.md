@@ -1,0 +1,4 @@
+- #postava
+- Gelan (Příjmení asi neznáme) je starší lidský muž.
+- Je jedním z pěti členů [rady Slaniska](6572ee5e-e2bd-459b-9d8c-fb7c26a84f29).
+-

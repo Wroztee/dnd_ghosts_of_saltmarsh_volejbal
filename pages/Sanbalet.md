@@ -1,0 +1,8 @@
+- #postava #pašeráci
+- Sanbalet je lidský iluzionista, který operoval jako vůdce pašerácké organizace sídlící v opuštěném [alchymistově domě](Alchymistův dům).
+- Ve své organizaci zaměstnával kromě dalších lidí také skupinu skurutů.
+- Spolupracoval s lodí [[Mořský duch]], která mu vždy dovážela pašované zboží z [Luskanu](Luskan) pro další distribuci. Pašoval tedy také primárně luskanskou brandy a [[Luskanský snížek]].
+- Svá kouzla využíval pro vyvolávání iluzorního pavouka, kterém míval po svém boku, nebo pro vytvoření řady varovných mechanismů po celém domě.
+- Byl nejspíše úzce zapleten do pašeráckého podsvětí v okolí [Slaniska](Slanisko), jelikož po [Orbinově](Orbin Vlček) otázce, zda zná [Skerrina](Skerrin) odvětil:
+- > Teď není čas na obchod!
+-

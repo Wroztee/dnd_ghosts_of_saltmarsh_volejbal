@@ -1,0 +1,3 @@
+- {{renderer :tocgen2, [[slanisko]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[duchové slaniska]], calc(100vh - 135px)}}
+- {{renderer :tocgen2, [[duchové slaniska]], calc(100vh - 135px)}}

@@ -1,0 +1,7 @@
+- #postava
+- Eliander (příjmení?) je lidský muž středního věku.
+- Ve [Slanisku](Slanisko) primárně jako vůdce [městské hlídky](6572ee5e-a7c1-4e24-a71f-527556701aac).
+- Je ale také jedním z pěti členů [rady Slaniska](6572ee5e-e2bd-459b-9d8c-fb7c26a84f29).
+- Zajímá se o historii, obzvláště poté o historii [Slaniska](Slanisko). Konkrétně u příběhu [Žraločáku](6572ee5e-9793-43d9-a3be-43f98af6fca5) si však není jistý ničím víc, než že je most více než 500 let starý a že byl proklet nejspíše kvůli obraně před velkým útokem na [[Slanisko]].
+- Po pročištění dobrodruhy vedl průzkumnou misi do [alchymistova strašidelného domu](Alchymistův dům). [Radě Slaniska](6572ee5e-e2bd-459b-9d8c-fb7c26a84f29) poté prokázal, že z tohoto místa dříve operovala nějaká pašerácká organizace.
+- Skupina dobrodruhů zná jeho přesné bydliště.

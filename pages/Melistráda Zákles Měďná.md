@@ -1,0 +1,4 @@
+- #postava
+- Melistráda Zákles Měďná, často oslovovaná pouze jako Melistráda, je trpaslice středního věku, u které také není možné rozpoznat, zda má vousy.
+- Je jednou z pěti členů [rady Slaniska](6572ee5e-e2bd-459b-9d8c-fb7c26a84f29).
+-

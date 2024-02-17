@@ -1,0 +1,3 @@
+- #loď
+- Loď sehnaná [Albrekem](Albrek) za účelem nalezení ztracené lodi [[Císař vln]].
+- Posádku lodi vede trpaslík [[Volgar Zimní Runa]], který k [Císaři vln](Císař vln) zná cestu.

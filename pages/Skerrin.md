@@ -1,0 +1,3 @@
+- #postava
+- Skerrin je sluhou rodiny [Anderse Solmora](Anders Solmor), jednoho z členů rady [Slaniska](Slanisko).
+- To je pro něho výhodné, jelikož se k němu takto nejspíše dostávají informace o vnitřních jednáních rady. Sám je totiž nejspíše zapleten do pašeráckých aktivit ve [Slanisku](Slanisko), minimálně podle toho, co zaslechl [Orbin](Orbin Vlček) náhodou při jednání v nedalekém lese.
