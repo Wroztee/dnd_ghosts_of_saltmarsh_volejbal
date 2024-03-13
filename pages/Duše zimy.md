@@ -1,3 +1,14 @@
 - #loď
-- Loď sehnaná [Albrekem](Albrek) za účelem nalezení ztracené lodi [[Císař vln]].
+- Loď sehnaná [Aubreckem Drallionem](Aubreck Drallion) za účelem nalezení ztracené lodi [[Císař vln]].
 - Posádku lodi vede trpaslík [[Volgar Zimní Runa]], který k [Císaři vln](Císař vln) zná cestu.
+- Na přídi lodi je vyřezaná hlava ledního medvěda, přestože to, že je lední lze poznat pouze z lehkých odlišujících rysů.
+- Posádka lodi sestává ze sedmi lidí s mohutnými kožešinami, kteří všichni pocházejí původem ze severu.
+- Jedním z členů posádky je (B?)ard, který měl svou vlastní zásobu sušeného masa.
+- Na lodi byly magické sudy, které sami mrazili cokoli bylo uvnitř nich. Další magickou vlastností lodi je, že se dokáže sama opravovat. Kdykoli se v lodi objeví díra, postupně začne zpět zamrzat a zacelovat se.
+- Zdroj této magie je údajně od kouzelníka, který se takto odměnil dědovi [Volgara](Volgar Zimní Runa) za pomoc. Právě jeho děda loď postavil, původně jako obchodní.
+- Aktuálně se na lodi také vojenská výbava ve formě katapultu a balisty.
+-
+- ---
+- Během výpravy na záchranu [Císaře vln](Císař vln) byla loď přepadena skupinou sahuagínů. Ti udělali do lodi díru a začali útočit na celou posádku.
+- Po zákeřném boji, ve kterém málem padl nejen [Orbin](Orbin Vlček), ale také (B?)ard, se však podařilo sahuagíny odrazit.
+- Součástí sahuagínské skupiny byla také kněžka, která držela velkou zubatou hůl a byla schopna sesílat celou řadu kouzel.

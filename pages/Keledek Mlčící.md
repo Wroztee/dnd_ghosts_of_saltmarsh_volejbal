@@ -1,0 +1,7 @@
+- #postava
+- Keledek Mlčící je záhadný kouzelník respektive mudrc pohybující se v okolí [Slaniska](Slanisko).
+- Jde o vysokého upraveného člověka ve žlutozeleném rouchu.
+- Přestože tvrdí, že nerad přichází do kontaktu s veřejností, má ve [Slanisku](Slanisko) mnoho kontaktů. Od těch například věděl, že skupina dobrodruhů podezřívá [Skerrina](Skerrin) z pašeráctví a také, že dobrodruzi pročistili [Zenopovu věž](Zenopova věž) od skurutů.
+- Zanechal úhledně psaný dopis pro dobrodruhy, kde žádal schůzku v [Zenopově věži](Zenopova věž). Pod dopisem byl podepsaný jako "obchodní partner".
+- [[Skerrin]] chce údajně Keledeka naverbovat do své nezákonné organizace. Keledek se však chce těmto kontaktům vyhnout a držet si vlastní klid. Žádal tedy skupinu dobrodruhů, aby se [Skerrina](Skerrin) zbavili.
+- Aktuálně sídlí v [Zenopově věži](Zenopova věž), kde údajně odhalil vstup do tajemného podzemí věže. V tomto podzemí údajně Zenop uchoval svá tajemství za spoustou magie.
