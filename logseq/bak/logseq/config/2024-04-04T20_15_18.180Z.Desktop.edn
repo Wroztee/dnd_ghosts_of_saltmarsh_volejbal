@@ -10,12 +10,12 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden []
+ :hidden ["../pure_markdown"]
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Mořský duch" "Orbin Vlček"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -414,4 +414,11 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
  :excluded-pages? true
- :orphan-pages? false}}
+ :orphan-pages? true}
+ :journal/page-title-format "E, dd.MM.yyyy"
+ :ui/show-brackets? false
+ :feature/enable-whiteboards? false
+ :feature/enable-journals? false
+ :feature/enable-flashcards? false
+ :default-home {:page "Duchové Slaniska"}
+ :feature/enable-timetracking? false}

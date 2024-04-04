@@ -70,7 +70,7 @@
 	  CLOCK: [2023-12-02 Sat 12:32:43]--[2023-12-02 Sat 13:00:50] =>  00:28:07
 	  CLOCK: [2023-12-02 Sat 13:00:51]--[2023-12-08 Fri 10:17:04] =>  141:16:13
 	  :END:
-	- DOING **Pašeráci** - Ve Slanisku se v poslední době velice rozmohla pašerácká aktivita. [Orbin](Orbin Vlček) si je jistý, že jde o něco společného se [Skerrinem](Skerrin). [[Keledek Mlčící]] tvrdí, že to tak rozhodně je.
+	- TODO **Pašeráci** - Ve Slanisku se v poslední době velice rozmohla pašerácká aktivita. [Orbin](Orbin Vlček) si je jistý, že jde o něco společného se [Skerrinem](Skerrin). [[Keledek Mlčící]] tvrdí, že to tak rozhodně je.
 	  :LOGBOOK:
 	  CLOCK: [2023-12-02 Sat 12:32:10]--[2023-12-02 Sat 12:32:10] =>  00:00:00
 	  CLOCK: [2023-12-02 Sat 12:32:11]--[2023-12-02 Sat 12:32:11] =>  00:00:00
@@ -84,5 +84,5 @@
 	  CLOCK: [2023-12-08 Fri 10:17:38]
 	  :END:
 	- DONE **[[Skuruti v Zenopově věž]]** - K [Miguelovi](Miguel) se doneslo, že na východ od slaniska jsou u řeky staré opuštěné ruiny věže, kde by se mohli ukrývat skuruti, jenž ukradli jeho milovanou Kaňku.
-	- TODO **Nekromatné na ostrově** - Podle hlášení, která se dostala k [Andersi Solmorovi](Anders Solmor), se na blízkém ostrově se objevila nejspíše skupina nektomantů. Chtěl by, aby se na to někdo podíval a zjistil, co se tam doopravdy děje.
+	- DOING **Nekromatné na ostrově** - Podle hlášení, která se dostala k [Andersi Solmorovi](Anders Solmor), se na blízkém ostrově se objevila nejspíše skupina nektomantů. Chtěl by, aby se na to někdo podíval a zjistil, co se tam doopravdy děje.
 	-
