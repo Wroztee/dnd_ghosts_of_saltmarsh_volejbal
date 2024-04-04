@@ -1,0 +1,33 @@
+# Alchymistův dům
+- #místo #pašeráci
+- Alchymistův dům je osamělá budova stojící na pobřeží asi 1 hodinu severně od [Slaniska](Slanisko.md). Jde o velkou budovu o dvou poschodích a sklepem.
+- Z vnějšku vypadá budova opuštěně, je obehnaná starým zrezivělým a polorozpadlým kovovým plotem.
+- Obyvatelé [Slaniska](Slanisko.md) se domnívají, že v tomto domě straší, jelikož z něho v noci vycházejí světla a nestvůrné zvuky, znějící jako z jiného světa. [Anders Solmor](Anders_Solmor.md) nabízí za vyřešení záhady tohoto domu odměnu minimálně 100 zl.
+- Budova je ve tvaru T a má dva vchody, jeden hlavní ze západní strany směrem od pobřeží a poté druhý ze zadní strany.
+
+- # Místnosti
+	- V přízemí budovy je řada místností, z nichž většina je prázdná. Po vstupu hlavním vchodem se postavy dostanou do velké vstupní haly s chodbami vedoucími do všech směrů domu a s velkým schodištěm vedoucím na balkón a do horního patra budovy. Balkón je však uprostřed ztrouchnivělý a je potřeba díru v něm přeskočit. Severozápadní uzavřená místnost sloužila dříve jako knihovna, zatímco místnosti ve východní části přízemí poté jako jídelna, kuchyně a spižírna. Z kuchyně vedou schody nahoru, zatímco ze spižírny do oddělené části podzemí
+	- Horní patro se skládá primárně z opuštěných prázdných místností. Místnosti v jižní části jsou dokonce v tak špatném stavu, že se ve dvou z nich propadá podlaha. Východní část obsahuje rozpadlé schody na půdu, kde se předtím usídlila skupina strig.
+	- Pod spižírnou je menší místnost, která nejspíše dříve sloužila jako vinný sklípek.
+	- Hlavní část sklepa je tvořená primárně velkou otevřenou místností s krbem, kam pašeráci přenesli všechny postele z celého domu. Poté je zde jedna uzavřená místnost, kterou nejspíše využíval [Sanbalet](Sanbalet.md) jako svou *kancelář*. A pak je zde dříve zabarikádovaná část s nápisem "NEBEZPEČÍ", kde byli pašeráky uzavřeni kostlivci. tato část vede do alchymistovi laboratoře plné různých alchymistických aparatur, baněk a další výbavy.
+	- Z hlavní místnosti sklepa se dá tajnými kamennými dveřmi dostat do velké jeskyně, která se klikatými chodbami line až ven k samotnému pobřeží. Tuto část pašeráci používali pro uskladňování pašovaného zboží a také pro nenápadný přístup na moře pomocí joly.
+
+- # Historie
+	- Alchymistův strašidelný dům byl obýván nemrtvým alchymistou a jeho kostlivými spřízněnci, kteří všichni sídlili v tajné části podzemí tohoto domu. Alchymista zde provozoval své pokusy ve své laboratoři.
+	- V domě se také usídlila skupina pašeráků vedená iluzionistou [Sanbaletem](Sanbalet.md). Ti uzavřeli část s kostlivci a přivlastnili si hlavní část sklepa spolu s jeho propojením s jeskyní. Takto se jeskyně spolu s celým domem stala pašeráckým doupětem.
+	- Součástí [Sanbaletovi](Sanbalet.md) pašerácké organizace byla také skupina skurutů. Ti však byli využíváni primárně na těžkou práci a o funkci organizace moc nevěděli.
+	- Hlavním (jediným?) dovozcem zboží do Alchymistova domu byla loď zvaná [Mořský duch](Mořský_duch.md) se svou posádkou. Loď připlouvala vždy v noci, kdy bylo pomocí směrové lucerny z horního patra domu signalizováno bezpečí. Následně bylo pomocí joly vyloženo zboží z lodi pro další distribuci [Sanbaletem](Sanbalet.md).
+	- ---
+	- Skupina dobrodruhů se jednoho dne rozhodla, že pročistí toto *prokleté* místo. Po prozkoumání přízemí a spuštění několika [Sanbaletových](Sanbalet.md) varovných kouzel, odhalila skupina tajný vchod do podzemí vedoucí z nejsevernější místnosti.
+	- Ve sklepě se rychle zbavili pašeráků, kteří zde trvale přebývali.
+	- Následně se skupina odvážila do zabarikádované části podzemí, kde pročistila všechny normální kostlivce. Někteří z kostlivců měli části kostí ze zlata, nejspíše jako příčina alchymistových experimentů. Poté se utkali se samotným alchymistou, který při setkání zahřměl:
+	- > Tajemství objevené, ztracené a znovu objevené. Víc než vaše mysli mohou pochopit.
+	- Po poražení alchymisty objevila skupina mnoho zajímavých předmětů, jejichž význam není stále zcela jasný.
+	- Poté skupina prozkoumala tajnou část podzemí, která je napojena na přírodní jeskyni. Nejprve se pomocí otevírání kamenných dveří vypořádali s první skupinou skurutů. Poté se utkali ale utkali v jeskyni se samotným vůdcem organizace [Sanbaletem](Sanbalet.md), který jelikož věděl o jejich přítomnosti, skupinu přivítal se slovy:
+	- > Vítejte v Sanbaletově doupěti!
+	- Načež byl sám i se svým iluzorním pavoukem a poskoky vmžiku zabit. Po boji pouze zapotřebí resuscitovat [Kiviora](Kivior.md), který utvpěl velká zranění od jednoho z poskoků.
+	- Zbylý skuruti, jenž v jeskyni také pomáhali se už se skupinou nenamáhali bojovat a dali se po jejich spatření ihned na útěk, [Orbin](Orbin_Vlček.md), který se za nimi ihned vydal od nich však schytal dvě téměř smrtelné rány a bylo nutné ho resuscitovat. Zároveň i [Heta](Heta.md) při jejich pronásledování dostala slizem do obličeje a upadla do bezvědomí.
+	- Skurutům se tak podařilo uniknout a cestou dokonce ukrást [Miguelovu](Miguel.md) milovanou klisnu Kaňku.
+	- Po zotavení se dobrodruzi vydali prozkoumat zbytek budovy, kde [Miguel](Miguel.md) získal novou plátěnou zbroj z jedné z mrtvol v druhé části sklepa, za cenu útoku parazitů.
+	- [Heta](Heta.md) byla po prozkoumávání komínů horního patra napadena velkou hordou pavouků, kterým málem podlehla. V další místnosti horního patra byla opět [Heta](Heta.md) společně s [Orbinem](Orbin_Vlček.md) opět uvržena do bezvědomí z důvodu prozkoumávání tajemného kabátu, v němž se však usadila velmi silná plíseň. Oběma se nakonec však podařilo i tuto infekci přežít.
+	- Po prozkoumání zbytku domu skupina také odhalila okno, ze kterého [Sanbalet](Sanbalet.md) signalizoval připlouvajícím lodím, společně se směrovou lampou. Využili tedy situace a stejným způsobem signalizovali připlouvající lodi [Mořský duch](Mořský_duch.md), kterou následně přepadli.
