@@ -18,6 +18,8 @@ def get_markdown_files(path: str = "./pages/"):
 
 
 def reformat_markdown_file(file_name : str, in_dir: str, out_dir: str):
+    if not os.path.isdir(out_dir):
+        os.mkdir(out_dir)
     adjusted_file_name = file_name.replace(' ', '_')
     in_file = codecs.open(in_dir + file_name, "r", "utf-8")
     out_file = codecs.open(out_dir + adjusted_file_name, "w+", "utf-8")
@@ -98,6 +100,8 @@ def add_file_extension_to_links(line: str):
     start_find = 0
     while start_find != -1:
         start_find = new_line.find("](", start_find)
+        if start_find == -1:
+            break
         content_start = start_find
         start_find = new_line.find(")", start_find)
         if start_find != -1 and not new_line[start_find - 4 : start_find] in IMAGE_FILE_EXTENSIONS and new_line[start_find - 3 : start_find] != ".md":
