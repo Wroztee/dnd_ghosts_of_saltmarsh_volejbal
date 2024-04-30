@@ -1,2 +1,19 @@
 - #hráčskápostava
+- Miguel je mladý lidský bojovník bohatýr, který je součástí hlavní skupiny dobrodruhů v dobrodružství [[Duchové Slaniska]].
+- I přes svůj chudý původ je velmi sebevědomý, svérázný a cílevědomý. Na hradě, na kterém částečně i vyrůstal, se dokonce dokázal naučit vytříbeným mravům a získat základní vzdělání.
+- Vždy držel velký obdiv ke koním a to obzvláště ke své věrné klisně Kaňce.
 -
+- # Vzhled
+-
+- # Minulost
+	- Miguel vyrůstal na okraji vojenského města Esphurta v oblasti Amanu. Jde o město na dalekém jihu, jehož dlouhodobá prosperita byla před více než sto lety náhle překažena válkou a vytěžením tamějších železných dolů. Od těch dob Esphurta fungovala spíše spíše jako soběstačný městský stát.
+	- Pochází z prosté venkovské rodiny, která se mimo bezpečné hrady města živila primárně pěstováním obilí a případným rybolovem.
+	- Už v útlém věku měl Miguel velký talent pro pohyb a často byl schopen soupeřit i s chlapci značně staršími než byl on sám. To mu samozřejmě přinášelo značné množství pozornosti.
+	- Jeho sebevědomí však bylo ve velkém kontrastu například s mnohokrát zašívanou zašedlou košilí, kterou nosíval, nebo faktem, že si jeho rodina mohla dovolit pouze jedno jídlo denně. Vždy ho však ohromovali naleštěné zbroje a zdobené prapory rytířů, které čas od času zahlédl, a pravidelně sníval také o takovém životě.
+	- ---
+	- Jednoho dne se zkrátka rozhodl sbalit otcovo zboží do pytle a místo do města se s ním vydal přímo tam. Jeho výprava však předčasně skončila před branami, kde ho strážný odmítl pustit dál se slovy, že chudina má vstup do hradu zakázán.
+	- V tu chvíli se ale projevilo Miguelovo štěstí, jelikož si ho náhodou všiml hradní správce Bartolo de la Forsa vypravující vozka pro potraviny. Místo toho tedy odkoupil celý ruksak od Miguela a řekl mu, ať s čerstvými rybami chodí klidně každé ráno.
+	- Miguel udělal přesně, jak mu bylo řečeno, a druhý den už mu byl strážný nucen otevřít. Po předání zboží si však Miguel uvědomil, že ho z pevnosti nikdo nevyhání. Vydal se tedy na průzkum.
+	- Nejvíce ze všeho ho zaujali panské stáje plné krásných koní, jaké Miguel nikdy neviděl. Během jeho průzkumu si ho všiml starý podkoní Mateo, který ho okamžitě zaměstnal kydáním hnoje, aby ušetřil svým vlastním zádům.
+	- Během následujících návštěv začal Mateo Miguela zaučovat v péči o koně, kdy Miguel vše s nadšením prováděl, přestože z toho neměl žádnou odměnu. To se však po čase změnilo, jelikož už Miguel kvůli únavě z práce na poli nebýval schopen vykonat tolik práce ve stájích. Mateo mu tedy začal vyplácet zlomek výplaty, aby mohl podpořit svou rodinu a nemusel na poli trávit tolik času.
+	- Z ušetřených peněz si Miguel začal kupovat lepší oblečení, začal se více upravovat a učit se vytříbenější mluvě od zbytku služebnictva. Také se naučil jízdě na koni, čímž si zasloužil velký obdiv i u samotných šlechtických dětí, které občas na koních vozil, přestože to měly zakázané.

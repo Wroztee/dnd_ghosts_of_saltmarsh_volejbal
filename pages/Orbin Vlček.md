@@ -6,7 +6,7 @@
 	- Orbin je devatenáctiletý hubený tiefling střední výšky s lehce nafialovělou pletí, ze které se ale většinu snaží skrývat v dlouhých rukávech, nohavicích a vysokých kožených botách. Kolem pasu má omotaný opasek z dlouhého cáru černé látky. Na něm má za všech okolností připevněnou svou brašničku se surovinami, které nasbíral v divočině, a vedle ní hlavně také své milované dláto. To však často mívá i vytažené, aby si s ním mohl přehazovat mezi prsty. Kolem krku má omotanou svou kápi z šedé látky, kterou už však prakticky nikdy nenosí, jelikož již pár měsíců není schopna zakrýt jeho rohy vyrůstající z neupravených hnědých kudrnatých vlasů. Právě jeho rohy nejlépe definují Orbinovu postavu, kvůli jejich atypickému větvení podobnému tomu jaké je u srnců. Svůj tieflingský ocas nosí vždy poctivě zakasaný v kalhotách, aby co nejlépe zakryl jeho existenci.
 	- ![Orbin vzhled](../assets/images/orbin-3d.png){:height 767, :width 492}
 -
-- # Historie
+- # Minulost
 	- Orbin se narodil a vyrůstal v malém městečku na Mečovém pobřeží zvaném Rawnis. Narodil se jako nejmladší dítě do předtím již čtyřčlenné rodiny lidí s primárně rybářskými kořeny.
 	- Když mu bylo něco přes jeden rok, vážně onemocněl. Nikdo v Rawnisu nevěděl, jak Orbina vyléčit. Jeho matka se modlila ke všemu, co se dalo, aby Orbin tuto záhadnou nemoc překonal. A také se tak náhle stalo. *Sám však dodnes neví přesně za jakou cenu.*
 	- Když vyrůstal, nikdy si moc nerozuměl se svými staršími sourozenci. jediné, co je spojovalo, byla nenávist k pirátům, jelikož jednou přepadli jejich otce, když byl rybařit a vzali mu jeho loďku spolu s veškerou výbavou. Sám si však naštěstí svůj život zachránit zvládl.
