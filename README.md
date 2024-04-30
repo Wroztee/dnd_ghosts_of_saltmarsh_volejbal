@@ -1,20 +1,20 @@
 # D&D - Duchové Slaniska
 Poznámky ze schůzek Dungeons and Dragons z dobrodružství Duchové Slaniska vyprávěného Ambrym. v letech 2023-Nyní
-## Linky na poznámky:
-### Hráčské Postavy
+- ## Linky na poznámky:
+- ### Hráčské Postavy
 - [Duplolas](./pure_markdown/Duplolas.md)
 - [Heta](./pure_markdown/Heta.md)
 - [Kivior](./pure_markdown/Kivior.md)
 - [Miguel](./pure_markdown/Miguel.md)
 - [Orbin Vlček](./pure_markdown/Orbin_Vlček.md)
-### Města
+- ### Města
 - [Slanisko](./pure_markdown/Slanisko.md)
-### Místa
+- ### Místa
 - [Alchymistův dům](./pure_markdown/Alchymistův_dům.md)
 - [Ještěrecká jeskyně](./pure_markdown/Ještěrecká_jeskyně.md)
 - [Slanisko](./pure_markdown/Slanisko.md)
 - [Zenopova věž](./pure_markdown/Zenopova_věž.md)
-### Postavy
+- ### Postavy
 - [Anders Solmor](./pure_markdown/Anders_Solmor.md)
 - [Aubreck Drallion](./pure_markdown/Aubreck_Drallion.md)
 - [Eda](./pure_markdown/Eda.md)
@@ -26,15 +26,15 @@ Poznámky ze schůzek Dungeons and Dragons z dobrodružství Duchové Slaniska v
 - [Sanbalet](./pure_markdown/Sanbalet.md)
 - [Skerrin](./pure_markdown/Skerrin.md)
 - [Volgar Zimní Runa](./pure_markdown/Volgar_Zimní_Runa.md)
-### Lodě
+- ### Lodě
 - [Císař vln](./pure_markdown/Císař_vln.md)
 - [Duše zimy](./pure_markdown/Duše_zimy.md)
 - [Mořský duch](./pure_markdown/Mořský_duch.md)
-### Organizace
+- ### Organizace
 - [Cech Vlnotvorců](./pure_markdown/Cech_Vlnotvorců.md)
-### Pašerácké Záležitosti
+- ### Pašerácké Záležitosti
 - [Alchymistův dům](./pure_markdown/Alchymistův_dům.md)
 - [Mořský duch](./pure_markdown/Mořský_duch.md)
 - [Sanbalet](./pure_markdown/Sanbalet.md)
-### Předměty
+- ### Předměty
 - [Luskanský snížek](./pure_markdown/Luskanský_snížek.md)

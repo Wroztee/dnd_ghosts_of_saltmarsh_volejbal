@@ -1,2 +1,2 @@
-- Duchové Slaniska je dobrodružství, kterého se účastní skupina dobrodruhů: [[Orbin Vlček]], [[Miguel]], [[Heta]], [[Kivior]] a [[Duplolas]].
+- Duchové Slaniska je dobrodružství, kterého se účastní skupina dobrodruhů: [[Orbin Vlček]], [[Miguel de Cartoz]] , [[Heta]], [[Kivior]] a [[Duplolas]].
 - Příběh se odehrává primárně ve [Slanisku](Slanisko) a jeho okolí.

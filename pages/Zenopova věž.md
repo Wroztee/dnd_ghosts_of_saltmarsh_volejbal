@@ -14,13 +14,13 @@
 - ---
 - Zenopovu věž obsadila neznámo kdy skupina skurutů.
 - Část skurutské bandy zároveň pracovala v [Alchymistově domě](Alchymistův dům), kde pro [Sanbaleta](Sanbalet) odváděla těžkou práci za základní plat.
-- Během toho, co se skupina dobrodruhů pokoušela o obsazení [Alchymistova domu](Alchymistův dům), podařilo se dvěma skurutům utéci a vzít si s sebou [Miguelovu](Miguel) klisnu Kaňku. To poté uvěznili v podzemí Zenopovy věže
+- Během toho, co se skupina dobrodruhů pokoušela o obsazení [Alchymistova domu](Alchymistův dům), podařilo se dvěma skurutům utéci a vzít si s sebou [Miguelovu](Miguel de Cartoz) klisnu Kaňku. To poté uvěznili v podzemí Zenopovy věže
 - ---
 - Poté, co se [[Miguel]] ve [Slanisku](Slanisko) doslechl, že se kousek od města nachází Zenopova věž, kde by skuruti teoreticky mohli ukrývat jeho milovanou Kaňku, vyrazila skupina dobrodruhů na její prozkoumání.
 - Když v noci dorazili k věži, byl vedle ni na trávě rozdělán oheň. Skuruti podle slechu očekávali příchod dobrodruhů.
 - Mezi skuruty se nacházel jejich kapitán a také jeden skurut pustošitel, jenž byl schopen ovládat základní magii.
 - Dobrodruhům doprovázeným [Morginem](Morgin) však skuruti nedělali žádný velký problém a snadno se jich zbavili.
 - Po prozkoumání podzemí věže [[Miguel]] nejdříve nalezl v jedné z místností velkého hada škrtiče, se kterým se po téměř uškrcení [Hety](Heta) podařilo dobrodruhům vypořádat.
-- V druhé místnosti se pak [Miguelovi](Miguel) konečně podařilo získat zpět svou milovanou klisnu Kaňku.
+- V druhé místnosti se pak [Miguelovi](Miguel de Cartoz) konečně podařilo získat zpět svou milovanou klisnu Kaňku.
 - ---
 - Ve věži se usídlil [[Keledek Mlčící]], který zde zkoumá vstup do tajemného podzemí.

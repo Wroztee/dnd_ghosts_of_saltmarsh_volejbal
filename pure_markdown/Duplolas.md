@@ -1,2 +1,0 @@
-# Duplolas
-- #hráčskápostava

@@ -26,7 +26,7 @@
 	- > Vítejte v Sanbaletově doupěti!
 	- Načež byl sám i se svým iluzorním pavoukem a poskoky vmžiku zabit. Po boji pouze zapotřebí resuscitovat [Kiviora](Kivior), který utvpěl velká zranění od jednoho z poskoků.
 	- Zbylý skuruti, jenž v jeskyni také pomáhali se už se skupinou nenamáhali bojovat a dali se po jejich spatření ihned na útěk, [Orbin](Orbin Vlček), který se za nimi ihned vydal od nich však schytal dvě téměř smrtelné rány a bylo nutné ho resuscitovat. Zároveň i [[Heta]] při jejich pronásledování dostala slizem do obličeje a upadla do bezvědomí.
-	- Skurutům se tak podařilo uniknout a cestou dokonce ukrást [Miguelovu](Miguel) milovanou klisnu Kaňku.
-	- Po zotavení se dobrodruzi vydali prozkoumat zbytek budovy, kde [Miguel](Miguel) získal novou plátěnou zbroj z jedné z mrtvol v druhé části sklepa, za cenu útoku parazitů.
+	- Skurutům se tak podařilo uniknout a cestou dokonce ukrást [Miguelovu](Miguel de Cartoz) milovanou klisnu Kaňku.
+	- Po zotavení se dobrodruzi vydali prozkoumat zbytek budovy, kde [Miguel](Miguel de Cartoz) získal novou plátěnou zbroj z jedné z mrtvol v druhé části sklepa, za cenu útoku parazitů.
 	- [[Heta]] byla po prozkoumávání komínů horního patra napadena velkou hordou pavouků, kterým málem podlehla. V další místnosti horního patra byla opět [[Heta]] společně s [Orbinem](Orbin Vlček) opět uvržena do bezvědomí z důvodu prozkoumávání tajemného kabátu, v němž se však usadila velmi silná plíseň. Oběma se nakonec však podařilo i tuto infekci přežít.
 	- Po prozkoumání zbytku domu skupina také odhalila okno, ze kterého [[Sanbalet]] signalizoval připlouvajícím lodím, společně se směrovou lampou. Využili tedy situace a stejným způsobem signalizovali připlouvající lodi [[Mořský duch]], kterou následně přepadli.

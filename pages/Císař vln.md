@@ -8,7 +8,7 @@
 - Byla tedy vyslána záchranná mise na nalezení této lodi vedená hráčskými postavami a posádkou pod vedením [Volgara Zimní Runy](Volgar Zimní Runa).
 - Po přepadení sahuagíny nalezli dobrodruzi ve vodě na moři trosky částí lodi. Na jedné z nich [Orbin](Orbin Vlček) rozpoznal kaligrafické A symbolizující [Aubreckovu](Aubreck Drallion) společnost.
 - Po přesné lokalizaci lodi však zjistili, že je obsazená klanem orků, kteří se vyznačují symbolem krvavé ruky. S těmi se [[Duplolas]] již dobře znal.
-- Po vypořádání se s orky, když dobrodruzi prohledávali místnosti lodi ve snaze najít zmiňované cenné papíry, byla loď náhle přepadena krakenem. [Miguelovi](Miguel) se podařilo na poslední chvíli přesvědčit Ruperta Vestičku, který byl zamčený s papíry ve vyztužené kajutě, aby odemkl.
+- Po vypořádání se s orky, když dobrodruzi prohledávali místnosti lodi ve snaze najít zmiňované cenné papíry, byla loď náhle přepadena krakenem. [Miguelovi](Miguel de Cartoz) se podařilo na poslední chvíli přesvědčit Ruperta Vestičku, který byl zamčený s papíry ve vyztužené kajutě, aby odemkl.
 - Při útoku krakena byl omráčen a téměř vykrvácel truchlící [Orbin](Orbin Vlček). Na poslední chvíli se ale [Hetě](Heta) podařilo [Orbina](Orbin Vlček) stabilizovat a, i přes svou neschopnost plavat, dostat na moře, kde ho odvlekla k záchrannému člunu, který vyhodil [[Duplolas]] .
-- [Miguelovi](Miguel) se s pomocí [Kiviora](Kivior) podařilo box s cennými papíry přivázat k lanu a dostat na záchranný člun také.
+- [Miguelovi](Miguel de Cartoz) se s pomocí [Kiviora](Kivior) podařilo box s cennými papíry přivázat k lanu a dostat na záchranný člun také.
 - Když posádka [[Duše zimy]] viděla, že vše možná není ztraceno, vrátili se pro dobrodruhy, kteří se společně s Rupertem Vestičkou plavili na záchranném člunu.
