@@ -1,0 +1,30 @@
+# Miguel de Cartoz
+- #hráčskápostava
+- Miguel je mladý lidský bojovník bohatýr, který je součástí hlavní skupiny dobrodruhů v dobrodružství [Duchové Slaniska](Duchové_Slaniska.md).
+- I přes svůj chudý původ je velmi sebevědomý, svérázný a cílevědomý. Na hradě, na kterém částečně i vyrůstal, se dokonce dokázal naučit vytříbeným mravům a získat základní vzdělání.
+- Vždy držel velký obdiv ke koním a to obzvláště ke své věrné klisně Kaňce.
+
+- # Vzhled
+
+- # Minulost
+	- Miguel vyrůstal na okraji vojenského města Esphurta v oblasti Amanu. Jde o město na dalekém jihu, jehož dlouhodobá prosperita byla před více než sto lety náhle překažena válkou a vytěžením tamějších železných dolů. Od těch dob Esphurta fungovala spíše spíše jako soběstačný městský stát.
+	- Pochází z prosté venkovské rodiny, která se mimo bezpečné hrady města živila primárně pěstováním obilí a případným rybolovem.
+	- Už v útlém věku měl Miguel velký talent pro pohyb a často byl schopen soupeřit i s chlapci značně staršími než byl on sám. To mu samozřejmě přinášelo značné množství pozornosti.
+	- Jeho sebevědomí však bylo ve velkém kontrastu například s mnohokrát zašívanou zašedlou košilí, kterou nosíval, nebo faktem, že si jeho rodina mohla dovolit pouze jedno jídlo denně. Vždy ho však ohromovali naleštěné zbroje a zdobené prapory rytířů, které čas od času zahlédl, a pravidelně sníval také o takovém životě.
+	- ---
+	- Jednoho dne se zkrátka rozhodl sbalit otcovo zboží do pytle a místo do města se s ním vydal přímo tam. Jeho výprava však předčasně skončila před branami, kde ho strážný odmítl pustit dál se slovy, že chudina má vstup do hradu zakázán.
+	- V tu chvíli se ale projevilo Miguelovo štěstí, jelikož si ho náhodou všiml hradní správce Bartolo de la Forsa vypravující vozka pro potraviny. Místo toho tedy odkoupil celý ruksak od Miguela a řekl mu, ať s čerstvými rybami chodí klidně každé ráno.
+	- Miguel udělal přesně, jak mu bylo řečeno, a druhý den už mu byl strážný nucen otevřít. Po předání zboží si však Miguel uvědomil, že ho z pevnosti nikdo nevyhání. Vydal se tedy na průzkum.
+	- Nejvíce ze všeho ho zaujali panské stáje plné krásných koní, jaké Miguel nikdy neviděl. Během jeho průzkumu si ho všiml starý podkoní Mateo, který ho okamžitě zaměstnal kydáním hnoje, aby ušetřil svým vlastním zádům.
+	- Během následujících návštěv začal Mateo Miguela zaučovat v péči o koně, kdy Miguel vše s nadšením prováděl, přestože z toho neměl žádnou odměnu. To se však po čase změnilo, jelikož už Miguel kvůli únavě z práce na poli nebýval schopen vykonat tolik práce ve stájích. Mateo mu tedy začal vyplácet zlomek výplaty, aby mohl podpořit svou rodinu a nemusel na poli trávit tolik času.
+	- Z ušetřených peněz si Miguel začal kupovat lepší oblečení, začal se více upravovat a učit se vytříbenější mluvě od zbytku služebnictva. Také se naučil jízdě na koni, čímž si zasloužil velký obdiv i u samotných šlechtických dětí, které občas na koních vozil, přestože to měly zakázané.
+	- Brzy se stal nejlepším přítelem Simóna, syna jednoho z šesti členů rady. Díky Simónovi se Miguelovi naskytla možnost trénovat na cvičišti s ostatními šlechtickými dětmi pod vedením Antona Catarriberiho.
+	- Jako první test byl Miguel s dřevěným mečem a štítem postaven proti o rok staršímu chlapci. Miguel šel do boje s plným sebevědomím, jelikož přece všechny hochy ve vesnici porážel bez jakýchkoli potíží. Rychle byl však opět sražen zpět do reality, doslova. Jeho nový učitel však do boje ani nadále nijak nezasahoval a Miguel jen na zemi dostával jednu ránu za druhou. Uvědomil si, že jedinou cestou je se vzchopit a bránit se. Zaťal tedy každý sval v těle a bojoval dále. Nebyl sice schopen svého protivníka jedinkrát zasáhnout, ale aspoň nebyl bit. Po zhruba minutě, která Miguelovi přišla jako celá věčnost, Anton boj zastavil, podíval se na Miguela a prohlásil:
+	- >Druhé kolo si už vyzkoušíte všichni, akorát se bude tentokrát bojovat bez štítu. Vítej mezi bojovníky hochu.
+	- Trvalo více než rok, než se Miguel vyrovnal ostatním a další rok než mezi nimi vynikal. Tou dobou mu bylo čerstvých 16 let a trávil většinu času buď na cvičišti, či ve stájích. Rozdíly mezi ním a jeho přáteli z pevnosti však začínaly více a více vycházet na povrch a Miguelovi docházelo, že pokud takto bude pokračovat, skončí ve stájích navždy jako stařičký Mateo.
+	- Do Espurthy ovšem chvíli nato přišla válka. Miguel se rázem ocitl v centru dění, hlavní pevnosti, v níž sídlil nově jmenovaný velitel armády, Simónův otec. Většina z Miguelových přátel byla také povolána a jemu tak přišlo nefér, že samotný Simón nebyl. Obecně si s ním však v poslední době spíše přestával rozumět.
+	- Den po odjezdu hlavního voje armády se na cvičišti kolem Miguela náhle prohnala bizarní postava. Šlo o zmateného šedesátníka v elegantním ženském brnění s kolem krku připnutým pěchotním štítem se šípem zabodlým uprostřed, jedoucího na bílém grošákovi.
+	- >Emmm, chlapče! Emmm, buď tak hodný, a… Emmm, sundej ze mě tu plechovou konstrukci… Emmm, nějak se mi v ní špatně dýchá.
+	- Poté co mu Miguel pomohl zjistil, že stařec je jakýsi hrabě Almerique de Avila a hledá bojové síly, ke kterým se hodlá připojit. Kdyby se takto nepředstavil, považoval by ho prostě za blázna. Co však viděl staříka zápasit s brněním a grošákem, na němž jel, dostal Miguel nápad požádat ho, zda by nemohl být jeho panošem. Hraběti vůbec nevadilo, že Miguel není ze šlechtického rodu, ale sám předpokládal, že v boji padne a nechtěl tak nikoho brát s sebou. Po dlouhém přemlouvání se však rozhodl vzít tedy Miguela jako svého panoše.
+	- Po chvíli se jim podařilo dohnat zbytek armády a Miguel postupně zjistil, že hrabě Almerique až takovým bláznem nebude, ba naopak, choval se k němu velmi zdvořile a příjemně. Jen neměl žádné vojenské zkušenosti a na koni neseděl celou věčnost. Zároveň se ukázalo, že Almeriqueho postavení bude nejspíše o dost vyšší, než Miguel předpokládal, ale bylo mu blbé se kohokoli ptát.
+

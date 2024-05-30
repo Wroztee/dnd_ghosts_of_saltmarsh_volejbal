@@ -1,0 +1,5 @@
+# Luskanský snížek
+- #předmět
+- Droga ve formě bílého prášku, pocházející z [Luskanu](Luskan.md).
+- Většina lidí ví, že se běžně užívá šňupáním.
+- Je však možné ho také rozmíchat ve víně pro intenzivnější účinky (známé hlavně ve vyšší společnosti?). S tímto způsobem užívání je ale spojena řada smrtelných incidentů.
