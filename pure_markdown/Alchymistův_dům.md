@@ -6,6 +6,7 @@
 - Budova je ve tvaru T a má dva vchody, jeden hlavní ze západní strany směrem od pobřeží a poté druhý ze zadní strany.
 
 - # Místnosti
+	![Alchymistův dům mapa](../assets/images/alchymistuv_dum_mapa.png)
 	- V přízemí budovy je řada místností, z nichž většina je prázdná. Po vstupu hlavním vchodem se postavy dostanou do velké vstupní haly s chodbami vedoucími do všech směrů domu a s velkým schodištěm vedoucím na balkón a do horního patra budovy. Balkón je však uprostřed ztrouchnivělý a je potřeba díru v něm přeskočit. Severozápadní uzavřená místnost sloužila dříve jako knihovna, zatímco místnosti ve východní části přízemí poté jako jídelna, kuchyně a spižírna. Z kuchyně vedou schody nahoru, zatímco ze spižírny do oddělené části podzemí
 	- Horní patro se skládá primárně z opuštěných prázdných místností. Místnosti v jižní části jsou dokonce v tak špatném stavu, že se ve dvou z nich propadá podlaha. Východní část obsahuje rozpadlé schody na půdu, kde se předtím usídlila skupina strig.
 	- Pod spižírnou je menší místnost, která nejspíše dříve sloužila jako vinný sklípek.

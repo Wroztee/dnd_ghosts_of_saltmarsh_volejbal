@@ -12,6 +12,7 @@ Poznámky ze schůzek Dungeons and Dragons z dobrodružství Duchové Slaniska v
 ### Místa
 - [Alchymistův dům](./pure_markdown/Alchymistův_dům.md)
 - [Ještěrecká jeskyně](./pure_markdown/Ještěrecká_jeskyně.md)
+- [Ostrov opatství](./pure_markdown/Ostrov_opatství.md)
 - [Slanisko](./pure_markdown/Slanisko.md)
 - [Zenopova věž](./pure_markdown/Zenopova_věž.md)
 ### Postavy

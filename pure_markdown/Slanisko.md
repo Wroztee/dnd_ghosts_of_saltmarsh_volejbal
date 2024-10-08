@@ -51,6 +51,7 @@
 	- Slanisko je primárně závislé na své vlastní správě. Její hlavní jednotkou je samotná rada Slaniska.
 
 	- ## Rada Slaniska
+	  collapsed:: true
 		- Rada se zaobírá samotným řízením Slaniska z organizačního hlediska, řešením jeho problémů, financí a tak dále. Skládá se z pěti členů, kterými aktuálně jsou [Melistráda Zákles Měďná](Melistráda_Zákles_Měďná.md), [Eda](Eda.md), [Gelan](Gelan.md), [Eliander](Eliander.md) a [Anders Solmor](Anders_Solmor.md).
 		- Ohledně případného spojenectví s ještěrci sídlící v nedaleké [jeskyni](Ještěrecká_jeskyně.md) nebyla rada úplně jednotná. Po audienci s [Morginem](Morgin.md) se však rozhodli vyslat [Anderse Slomora](Anders_Solmor.md) spolu s částí městské hlídky na vyjednávací misi.
 		- Zároveň se rada usnesla, že si skupina dobrodruhů za pročištění [alchymistova domu](Alchymistův_dům.md) po prověření [Elianderem](Eliander.md) zaslouží svou slíbenou odměnu 100 zl. větší odměny se skupina už ani nedožadovala.
@@ -64,5 +65,5 @@
  - [ ] **TODO** *Pašeráci** - Ve Slanisku se v poslední době velice rozmohla pašerácká aktivita. [Orbin](Orbin_Vlček.md) si je jistý, že jde o něco společného se [Skerrinem](Skerrin.md). [Keledek Mlčící](Keledek_Mlčící.md) tvrdí, že to tak rozhodně je.
  - [x] ~~**Hledání ztracené lodi** - Bohatý obtloustlý obchodník (možná třeba taky pašerák?) [Aubreck Drallion](Aubreck_Drallion.md) očekával, že do [Slaniska]() připluje loď zvaná [Císař vln](Císař_vln.md), která měla vézt cenné papíry. Jelikož však nepřiplula, hledá schopnou posádku, která by loď našla a případně zachránila. Na výpravu byla sehnána loď [Duše zimy](Duše_zimy.md) spolu s posádkou.~~
  - [x] ~~**[Skuruti v Zenopově věž](Skuruti_v_Zenopově_věž.md)** - K [Miguelovi](Miguel.md) se doneslo, že na východ od slaniska jsou u řeky staré opuštěné ruiny věže, kde by se mohli ukrývat skuruti, jenž ukradli jeho milovanou Kaňku.~~
- - [ ] **DOING** **Nekromatné na ostrově** - Podle hlášení, která se dostala k [Andersi Solmorovi](Anders_Solmor.md), se na blízkém ostrově se objevila nejspíše skupina nektomantů. Chtěl by, aby se na to někdo podíval a zjistil, co se tam doopravdy děje.
+ - [ ] **DOING** **Nekromatné na ostrově** - Podle hlášení, která se dostala k [Andersi Solmorovi](Anders_Solmor.md), se na blízkém [Ostrově opatství](Ostrov_opatství.md), proslulém nektromantickými praktikami, objevil v poslední době kouř. Chtěl by, aby se na to někdo podíval a zjistil, co se tam doopravdy děje, nabízí za to 2000 zl. Údajně je možné se doplavit lodí poblíž tohoto ostrova.
 

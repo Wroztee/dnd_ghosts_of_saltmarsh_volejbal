@@ -1,0 +1,36 @@
+- #místo
+- Ostrov opatství je menší ostrov nacházející se den cesty východně od [[Slaniska]].
+- Celé jeho pobřeží až na jižní cíp je obehnané zrádnými skalisky, které brání lodím v kotvení.
+- Ostrov má dlouhou historii spojenou s nekromantskými kulty, o nichž se většina lidí domnívala, že byly již vyhnány.
+- V poslední době však proplouvající lodě oznamovaly, že a ostrově viděly kouř. [[Anders Solmor]] z [rady Slaniska](6572ee5e-e2bd-459b-9d8c-fb7c26a84f29) tedy nabízí odměnu 2000 zl. komukoli, kdo by byl ochoten ostrov prozkoumat a zjistit, co se na něm děje.
+- [[Anders Solmor]] říkal, že je možné se poblíž ostrova dostat pomocí lodi, jež vyplouvá od majáku kousek od [Slaniska](Slanisko). Tento maják však hlídá jakýsi bláznivý podivín.
+-
+- # Místa
+	- ## Duny lebek
+	  id:: 665970c0-f690-45af-a8b0-4d614469d1aa
+		- Na jihu ostrova je poušť zvaná Duny lebek. Ta nejspíše získala své jméno podle mnoha humanoidních a jiných kostí, které se na poušti nachází.
+		- Kvůli vlivům nekromantské magie se po přiblížení k těmto kopicím pozůstatků kosti sjednotí do jakýchsi kostlivých stvoření.
+		- Kosti se formují do tvarů běžných i obřích kostlivců, tornád kostí a kostlivých berserků.
+	- ## Lesy
+		- Značnou část ostrova tvoří také smíšené lesy.
+		- V těchto lesích je podle význačného smradu možné si všimnout tlup zombií, které se po něm volně potloukají.
+		- Tyto zombie jsou nejspíše také kvůli silných vlivům nekromantů schopny sjednotit svá těla do velkých mas nemrtvých těl.
+	- ## Pláně
+		- Zbytek ostrova tvoří primárně pláně, které jsou oproti zbytku ostrova až překvapivě běžné a klidné.
+	- ## Klášter
+		- Uprostřed ostrova je ruina bývalého kláštera, podle kterého nejspíše nese celý ostrov svůj název.
+		- Z kláštera už však zbyly primárně jen zdi, žádná patra se nedochovala.
+		- V klášteře již nejspíše nějakou dobu sídlí kult nekromantů, kteří odtud operují. Ti žijí v podzemní části kláštera, která je stále více méně zachovalá. Nemají zde však žádný velký luxus.
+		- V podzemí mají kultisté několik základních místností. Těmi jsou centrální společenská místnost, kde kultisté sdílí svá jídla, kuchyni, sklad, studovnu a místnosti na spaní.
+		- Důležitou místností je svatyně. Ta je v jihovýchodní části normálního podzemí a je zasvěcena temnému bohu nekromancie. Jeho znak v podobě černého draka požírajícího ovci je na všech stěnách této místnosti. Červený koberec v této místnosti vede k malému oltáři zasvěcenému stejnému bohu.
+		- ---
+		- Ze svatyně vede z jižní stěny tajným vchodem cesta do druhé části podzemí, katakomb. V této části ukrývají svůj tajný poklad střežený několika nemrtvými a oživlými sochami.
+		- V katakombách, které jsou hned vedle běžné části podzemí, je celá řada místností, klikatých chodeb, které jsou často i slepé, a především pastí.
+		- Pasti jsou zde magického i prostého původu, od jam zamaskovaných iluzemi do dveře, za nimiž jsou nastražené balisty.
+		- Vchod do katakomb střeží kostění minotauři. Místnost s falešným pokladem poté oživlá nefritová socha upíra s křídly a samotnou místnost s pokladem dvě oživlé železné sochy v podobě jakýchsi golemů se zbraněmi místo rukou. Dále je v katakombách také ghast, zombie zlobr a křišťálová socha minotaura.
+		- Některé chodby jsou také propojeny tajnými dveřmi.
+-
+- # Historie
+	- Původ kláštera není postavám známý.
+	- Do zbytků kláštera se před neznámou dobou nastěhoval kult uctívající boha nekromancie. Všichni členové tohoto kultu mají černá roucha.
+	- Na ochranu si kult najal také dvojici žoldáků, hloupého Ogmunda, který je prostou horou svalů, a starého šišlajícího Bobkového lista (Bobek), který kulhá o meči.
